@@ -1,0 +1,56 @@
+2025-03-03 17:43:53,300 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-03 17:44:42,323 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 49.0222s - result: (<Response 109 bytes [200 OK]>, 200)
+2025-03-03 17:45:07,458 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-03 17:45:08,649 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 1.1874s - result: (<Response 68 bytes [200 OK]>, 200)
+2025-03-03 17:45:35,604 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-03 17:45:35,808 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-03 17:45:36,721 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 1.1166s - result: (<Response 30 bytes [200 OK]>, 200)
+2025-03-03 17:45:36,776 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 0.9633s - result: (<Response 30 bytes [200 OK]>, 200)
+2025-03-03 17:46:01,878 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-03 17:46:03,572 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 1.6937s - result: (<Response 109 bytes [200 OK]>, 200)
+2025-03-03 17:46:42,129 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-03 17:46:43,846 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 1.7170s - result: (<Response 109 bytes [200 OK]>, 200)
+2025-03-03 18:16:52,772 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-03 18:16:54,362 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 1.5898s - result: (<Response 68 bytes [200 OK]>, 200)
+2025-03-03 18:25:17,135 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-03 18:25:20,434 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 3.2997s - result: (<Response 52 bytes [200 OK]>, 200)
+2025-03-03 21:46:04,425 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-03 21:46:04,759 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 0.3337s - result: (<Response 89 bytes [200 OK]>, 200)
+2025-03-03 22:04:28,856 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-03 22:06:07,937 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 99.0806s - result: (<Response 121 bytes [200 OK]>, 200)
+2025-03-03 22:07:28,409 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-03 22:07:33,975 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-03 22:07:34,702 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 6.2932s - result: (<Response 121 bytes [200 OK]>, 200)
+2025-03-03 22:07:39,517 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 5.5416s - result: (<Response 121 bytes [200 OK]>, 200)
+2025-03-03 22:31:55,255 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-03 22:32:03,570 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 8.3154s - result: (<Response 243 bytes [200 OK]>, 200)
+2025-03-03 22:32:38,785 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-03 22:32:44,821 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-03 22:32:46,983 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 8.1981s - result: (<Response 312 bytes [200 OK]>, 200)
+2025-03-03 22:32:53,203 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 8.3732s - result: (<Response 312 bytes [200 OK]>, 200)
+2025-03-03 22:33:48,263 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-03 22:33:55,093 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 6.8298s - result: (<Response 380 bytes [200 OK]>, 200)
+2025-03-03 22:42:43,680 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-03 22:42:43,694 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 0.0140s - result: (<Response 155 bytes [200 OK]>, 200)
+2025-03-03 22:43:28,436 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-03 22:43:30,212 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 1.7763s - result: (<Response 125 bytes [200 OK]>, 200)
+2025-03-03 23:11:43,248 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-03 23:11:56,622 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 13.3740s - result: (<Response 115 bytes [200 OK]>, 200)
+2025-03-03 23:12:10,138 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-03 23:12:28,599 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 18.4613s - result: (<Response 121 bytes [200 OK]>, 200)
+2025-03-03 23:13:09,580 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-03 23:13:25,907 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 16.3236s - result: (<Response 109 bytes [200 OK]>, 200)
+2025-03-03 23:14:08,838 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-03 23:14:27,290 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 18.4520s - result: (<Response 107 bytes [200 OK]>, 200)
+2025-03-04 11:33:44,411 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-04 11:33:53,408 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-04 11:34:06,309 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 21.8951s - result: (<Response 115 bytes [200 OK]>, 200)
+2025-03-04 11:34:19,032 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 25.6242s - result: (<Response 115 bytes [200 OK]>, 200)
+2025-03-04 11:35:03,696 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-04 11:35:10,364 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-04 11:35:36,156 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 25.7922s - result: (<Response 247 bytes [200 OK]>, 200)
+2025-03-04 11:35:36,649 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 32.9528s - result: (<Response 247 bytes [200 OK]>, 200)
+2025-03-04 11:35:57,055 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-04 11:36:16,281 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 19.2258s - result: (<Response 397 bytes [200 OK]>, 200)
+2025-03-04 12:57:11,744 - document_qa - DEBUG - log_config.py:49 - ENTER: __main__.query_document - args: [], kwargs: {}
+2025-03-04 12:57:29,536 - document_qa - DEBUG - log_config.py:75 - EXIT: __main__.query_document - execution time: 17.7918s - result: (<Response 247 bytes [200 OK]>, 200)

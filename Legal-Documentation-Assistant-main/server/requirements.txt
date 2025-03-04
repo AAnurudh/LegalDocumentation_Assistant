@@ -1,0 +1,12 @@
+flask
+Flask-Cors
+python-docx
+requests
+mysqlclient
+mysql-connector-python
+mammoth
+nltk
+sentence-transformers
+python-dotenv
+psycopg2
+chromadb
